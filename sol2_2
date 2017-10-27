@@ -1,0 +1,2 @@
+:- use_module('pl-man-game/main').
+ regla :- see(normal, up, ('.')), doAction(move(up)).
